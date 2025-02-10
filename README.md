@@ -1,5 +1,6 @@
 # 💫 About Me:
-Detail-oriented professional with a strong foundation in SQL, Python, complemented by expertise in data <br>integration, visualization and creating scalable solutions. Proven ability to design and implement data  <br>driven solutions ensuring seamless data flow and accessibility. Adept at creating responsive interfaces <br>and data visualization tools, translating complex datasets into actionable insights. Proficient in optimizing  <br>processes, maintaining data integrity, and collaborating in Agile environments. 
+Results-driven Data Analyst with 5+ years of experience in data analysis, business intelligence, and process optimization. Proven ability to transform complex datasets into actionable insights using SQL, Power BI, and Tableau, leading to data-driven decision-making. Adept at designing interactive dashboards, optimizing SQL queries and automating workflows to improve efficiency and reporting accuracy. Strong background in stakeholder communication and KPI reporting to drive business growth.
+ 
 
 
 ## 🌐 Socials:
